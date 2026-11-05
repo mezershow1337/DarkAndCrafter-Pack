@@ -1,17 +1,17 @@
 {
-  "version": "0.2.1",
+  "version": "0.3.0",
   "files": [
     {
-      "path": "mods/darkcrafter-0.2.1.jar",
-      "url": "https://raw.githubusercontent.com/mezershow1337/DarkAndCrafter-Pack/main/mods/darkcrafter-0.2.1.jar",
-      "sha1": "6a9f911155dc29696bfc92d84f38130cac482c8a",
-      "size": 466350
+      "path": "mods/darkcrafter-0.3.0.jar",
+      "url": "https://raw.githubusercontent.com/mezershow1337/DarkAndCrafter-Pack/main/mods/darkcrafter-0.3.0.jar",
+      "sha1": "a571fa75c720c40ca34d0837fa5dde4166454af7",
+      "size": 482338
     },
     {
-      "path": "mods/darkcrafter_classes-0.2.1.jar",
-      "url": "https://raw.githubusercontent.com/mezershow1337/DarkAndCrafter-Pack/main/mods/darkcrafter_classes-0.2.1.jar",
-      "sha1": "a7fb09bca2e8e5befd0cbf587c8b55186cce17c7",
-      "size": 1936
+      "path": "mods/darkcrafter_classes-0.3.0.jar",
+      "url": "https://raw.githubusercontent.com/mezershow1337/DarkAndCrafter-Pack/main/mods/darkcrafter_classes-0.3.0.jar",
+      "sha1": "6c11025f9e5480f71f884ed676c690d2511f655b",
+      "size": 1938
     },
     {
       "path": "mods/fabric-api-0.165.0+26.3.jar",
