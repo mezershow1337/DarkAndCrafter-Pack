@@ -1,16 +1,16 @@
 {
-  "version": "0.3.0",
+  "version": "0.4.0",
   "files": [
     {
-      "path": "mods/darkcrafter-0.3.0.jar",
-      "url": "https://raw.githubusercontent.com/mezershow1337/DarkAndCrafter-Pack/main/mods/darkcrafter-0.3.0.jar",
-      "sha1": "a571fa75c720c40ca34d0837fa5dde4166454af7",
-      "size": 482338
+      "path": "mods/darkcrafter-0.4.0.jar",
+      "url": "https://raw.githubusercontent.com/mezershow1337/DarkAndCrafter-Pack/main/mods/darkcrafter-0.4.0.jar",
+      "sha1": "47e69abab895b11cd957f1c05dfc15c416bd1848",
+      "size": 522138
     },
     {
-      "path": "mods/darkcrafter_classes-0.3.0.jar",
-      "url": "https://raw.githubusercontent.com/mezershow1337/DarkAndCrafter-Pack/main/mods/darkcrafter_classes-0.3.0.jar",
-      "sha1": "6c11025f9e5480f71f884ed676c690d2511f655b",
+      "path": "mods/darkcrafter_classes-0.4.0.jar",
+      "url": "https://raw.githubusercontent.com/mezershow1337/DarkAndCrafter-Pack/main/mods/darkcrafter_classes-0.4.0.jar",
+      "sha1": "46204b21ee6cf5b053c9454788b4c94804fc48bf",
       "size": 1938
     },
     {
