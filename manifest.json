@@ -34,8 +34,8 @@
     {
       "path": "mods/darkcrafter_mobs-0.105.0.jar",
       "url": "https://raw.githubusercontent.com/mezershow1337/DarkAndCrafter-Pack/main/mods/darkcrafter_mobs-0.105.0.jar",
-      "sha1": "1aba00edd78af30dc552448532492b02dd99b720",
-      "size": 1516084
+      "sha1": "fe2c13cdf8e4ace003fefaf746a2c12b53c876f6",
+      "size": 1516125
     },
     {
       "path": "mods/fabric-api-0.165.0+26.3.jar",
