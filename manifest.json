@@ -1,5 +1,5 @@
 {
-  "version": "0.105.0",
+  "version": "0.105.1",
   "files": [
     {
       "path": "mods/PlayerAnimationLibMerged-1.2.7+mc.26.3.jar",
@@ -8,34 +8,34 @@
       "size": 400987
     },
     {
-      "path": "mods/darkcrafter-0.105.0.jar",
-      "url": "https://raw.githubusercontent.com/mezershow1337/DarkAndCrafter-Pack/main/mods/darkcrafter-0.105.0.jar",
-      "sha1": "8876607bf1123eca3fe94bfecdfcdbdf4da8999e",
-      "size": 9806025
+      "path": "mods/darkcrafter-0.105.1.jar",
+      "url": "https://raw.githubusercontent.com/mezershow1337/DarkAndCrafter-Pack/main/mods/darkcrafter-0.105.1.jar",
+      "sha1": "05e85a156813653b598791631a6868b647ff878e",
+      "size": 9814725
     },
     {
-      "path": "mods/darkcrafter_classes-0.105.0.jar",
-      "url": "https://raw.githubusercontent.com/mezershow1337/DarkAndCrafter-Pack/main/mods/darkcrafter_classes-0.105.0.jar",
-      "sha1": "b048791a289bc3a2b85f6c4e54d9a77ea4818f84",
+      "path": "mods/darkcrafter_classes-0.105.1.jar",
+      "url": "https://raw.githubusercontent.com/mezershow1337/DarkAndCrafter-Pack/main/mods/darkcrafter_classes-0.105.1.jar",
+      "sha1": "b97ef3f3e561ade6ce87aac87e88516554801c61",
       "size": 2481410
     },
     {
-      "path": "mods/darkcrafter_dungeons-0.105.0.jar",
-      "url": "https://raw.githubusercontent.com/mezershow1337/DarkAndCrafter-Pack/main/mods/darkcrafter_dungeons-0.105.0.jar",
-      "sha1": "077092559efff4737a2a3cadf5e7df82a9ac4a6c",
+      "path": "mods/darkcrafter_dungeons-0.105.1.jar",
+      "url": "https://raw.githubusercontent.com/mezershow1337/DarkAndCrafter-Pack/main/mods/darkcrafter_dungeons-0.105.1.jar",
+      "sha1": "f93fa9a8a9097ba590079f9f41f8de7a8b676ade",
       "size": 1203274
     },
     {
-      "path": "mods/darkcrafter_lobby-0.105.0.jar",
-      "url": "https://raw.githubusercontent.com/mezershow1337/DarkAndCrafter-Pack/main/mods/darkcrafter_lobby-0.105.0.jar",
-      "sha1": "27968f9a2293551f664154ce6d93cd6ab0efe87b",
-      "size": 683715
+      "path": "mods/darkcrafter_lobby-0.105.1.jar",
+      "url": "https://raw.githubusercontent.com/mezershow1337/DarkAndCrafter-Pack/main/mods/darkcrafter_lobby-0.105.1.jar",
+      "sha1": "989d024ed3e09f34800d35d90d22caa55531d628",
+      "size": 683714
     },
     {
-      "path": "mods/darkcrafter_mobs-0.105.0.jar",
-      "url": "https://raw.githubusercontent.com/mezershow1337/DarkAndCrafter-Pack/main/mods/darkcrafter_mobs-0.105.0.jar",
-      "sha1": "fe2c13cdf8e4ace003fefaf746a2c12b53c876f6",
-      "size": 1516125
+      "path": "mods/darkcrafter_mobs-0.105.1.jar",
+      "url": "https://raw.githubusercontent.com/mezershow1337/DarkAndCrafter-Pack/main/mods/darkcrafter_mobs-0.105.1.jar",
+      "sha1": "7ef42545c42113b4033eaa4b63fc8ed2fccc5e89",
+      "size": 1516124
     },
     {
       "path": "mods/fabric-api-0.165.0+26.3.jar",
