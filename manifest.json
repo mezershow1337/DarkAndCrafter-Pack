@@ -2,6 +2,48 @@
   "version": "0.138.1",
   "files": [
     {
+      "path": "mods/PlayerAnimationLibMerged-1.2.7+mc.26.3.jar",
+      "url": "https://raw.githubusercontent.com/mezershow1337/DarkAndCrafter-Pack/main/mods/PlayerAnimationLibMerged-1.2.7%2Bmc.26.3.jar",
+      "sha1": "1ad625ed4bb412698017134124c6c22825032b59",
+      "size": 400987
+    },
+    {
+      "path": "mods/darkcrafter-0.138.1.jar",
+      "url": "https://raw.githubusercontent.com/mezershow1337/DarkAndCrafter-Pack/main/mods/darkcrafter-0.138.1.jar",
+      "sha1": "7613e9bc60e71e1e0a17c526ad00830a61eccb4d",
+      "size": 14856258
+    },
+    {
+      "path": "mods/darkcrafter_classes-0.138.1.jar",
+      "url": "https://raw.githubusercontent.com/mezershow1337/DarkAndCrafter-Pack/main/mods/darkcrafter_classes-0.138.1.jar",
+      "sha1": "ef9725899ab002418528ded16ca0be44ddf34020",
+      "size": 2486307
+    },
+    {
+      "path": "mods/darkcrafter_dungeons-0.138.1.jar",
+      "url": "https://raw.githubusercontent.com/mezershow1337/DarkAndCrafter-Pack/main/mods/darkcrafter_dungeons-0.138.1.jar",
+      "sha1": "a11f0ac55874f077afc553b99176d64ed77d618e",
+      "size": 1836980
+    },
+    {
+      "path": "mods/darkcrafter_lobby-0.138.1.jar",
+      "url": "https://raw.githubusercontent.com/mezershow1337/DarkAndCrafter-Pack/main/mods/darkcrafter_lobby-0.138.1.jar",
+      "sha1": "c4aaac7c71983c766fc5aaec02b96f1b794c60f1",
+      "size": 747038
+    },
+    {
+      "path": "mods/darkcrafter_mobs-0.138.1.jar",
+      "url": "https://raw.githubusercontent.com/mezershow1337/DarkAndCrafter-Pack/main/mods/darkcrafter_mobs-0.138.1.jar",
+      "sha1": "91d6fc83595aefb3ca807dc070ae40cd9a00840f",
+      "size": 6313626
+    },
+    {
+      "path": "mods/fabric-api-0.165.0+26.3.jar",
+      "url": "https://raw.githubusercontent.com/mezershow1337/DarkAndCrafter-Pack/main/mods/fabric-api-0.165.0%2B26.3.jar",
+      "sha1": "8f8a23d6c9fbf7b075b31b4fb0a1007b0488d1d2",
+      "size": 1778588
+    },
+    {
       "path": "mods/voicechat-fabric-2.6.24+26.3.jar",
       "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/OLnMVWXy/voicechat-fabric-2.6.24%2B26.3.jar",
       "sha1": "2ac4bb844e3b23b6e0a729edcf521ba1198ec5d2",
